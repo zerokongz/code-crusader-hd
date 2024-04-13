@@ -1,0 +1,15 @@
+{  
+  "name": "code-crusader-hd",  
+  "version": "5.3.9",  
+  "description": "hd补丁",  
+  "main": "index.js",  
+  "scripts": {  
+    "test": "echo \"Error: no test specified\" && exit 1"  
+  },  
+  "repository": {  
+    "type": "git",  
+    "url": "https://github.com/zerokongz/code-crusader-hd"  
+  },  
+  "license": "ISC",  
+  "homepage": "https://github.com/zerokongz/code-crusader-hd"  
+}
